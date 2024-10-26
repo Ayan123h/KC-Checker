@@ -25,6 +25,8 @@
   "timeBetweenRefresh": 100,
 
   "iplookup": "http://api.ipify.org/",
+  "iplookup": "https://api.ipify.org?format=json",
+  "iplookup": "https://tg-app.memefi.club/",
 
   "judges_threads": 3,
   "judges_timeout": 5000,
